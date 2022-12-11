@@ -1,0 +1,162 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:34:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:34:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:�����: ���
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:34:14] "GET /search?s=��� HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:34:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:44:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:44:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: кот
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:44:20] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:44:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2022-12-11 22:48:04,521 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-12-11 22:48:04,521 [INFO] [33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: енот
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:11] "GET /search?s=енот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:48:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:49:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:49:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:53:53] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:53:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл ANUQRAM - Bionic Soul (Extended Mix) .mp3 - не картинка
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:54:06] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:57:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 22:57:51] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:01:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:02:29] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:02:30] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Файл Dirtyphonics x Graphyt - Haxo.mp3 - не картинка
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:49:52] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:50:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:51:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:51:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: еда
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\main\views.py", line 17, in search_page
+    posts = search_post(substr)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 10, in search_post
+    return "Файл не найден"
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 4, in get_data_from_json
+    def get_data_from_json():
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:51:33] "[35m[1mGET /search?s=еда HTTP/1.1[0m" 500 -
+INFO:root:Поиск: 
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\main\views.py", line 17, in search_page
+    posts = search_post(substr)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 10, in search_post
+    return "Файл не найден"
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 4, in get_data_from_json
+    def get_data_from_json():
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:51:44] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:54:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:54:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Поиск: еда
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\main\views.py", line 17, in search_page
+    posts = search_post(substr)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 10, in search_post
+    except FileNotFoundError:
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 4, in get_data_from_json
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [11/Dec/2022 23:56:53] "[35m[1mGET /search?s=еда HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:01:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:01:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: еда
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\torop\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\main\views.py", line 17, in search_page
+    posts = search_post(substr)
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 10, in search_post
+    except FileNotFoundError:
+  File "X:\PyCharm Community Edition 2022.2.3\homework_12\functions.py", line 4, in get_data_from_json
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:01:49] "[35m[1mGET /search?s=еда HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: еда
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:47] "GET /search?s=еда HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:29:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:11] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:11] "GET /uploads/829952131_3022582.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: енот
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:16] "GET /search?s=енот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:16] "[36mGET /uploads/829952131_3022582.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Поиск: енот
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:37] "GET /search?s=енот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Dec/2022 00:30:37] "[36mGET /uploads/829952131_3022582.jpg HTTP/1.1[0m" 304 -
